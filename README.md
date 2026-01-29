@@ -21,5 +21,13 @@ This repository contains projects and experiments exploring distributed systems 
 Coming soon!
 
 ---
+## Recent Updates
+
+- **[01/29/2026]**: Successfully completed the distributed workflow challenge!
+  - Cloned repository to local machine
+  - Made local modifications
+  - Pushed changes back to GitHub
+  - Experienced distributed computing firsthand!
+
 
 *Last updated: 01/29/2026*
